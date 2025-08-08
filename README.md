@@ -41,6 +41,7 @@ Dataset used for visualization is from [Kaggle](https://www.kaggle.com/).
 
 ---
 ## Screenshots / Demo's
-https://github.com/Nikhil111002/HR-Analytics-Dashboard/blob/main/snap%20shot%20hr%20analytics.png 
+![Entrepreneurship Prediction Dashboard](https://github.com/Nikhil111002/HR-Analytics-Dashboard/blob/main/snap%20shot%20hr%20analytics.png )
+
 
 ---
